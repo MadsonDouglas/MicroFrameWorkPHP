@@ -1,0 +1,9 @@
+body{
+    background:  black;
+}
+div.icon{
+    width: 75px;
+    height: 60px;
+    margin-top: -20px;
+    background: white;
+}

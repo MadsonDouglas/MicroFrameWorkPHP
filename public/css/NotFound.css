@@ -1,0 +1,16 @@
+*, body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(190deg, #b2bec3, #dfe6e9);
+}
+div.main h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32pt;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    background-image: linear-gradient(90deg, #0984e3, #00b894);
+}
+div.main{
+    margin: 300px auto;
+}
